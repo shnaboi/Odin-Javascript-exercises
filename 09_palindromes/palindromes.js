@@ -5,7 +5,7 @@ const palindromes = function (str) {
 };
 
 // REGEX understanding
-// \W+ matches characters such as comma, underscore, periods
+// \W matches NON-WORD characters such as comma, periods
 // /g is global
 
 // Do not edit below this line
